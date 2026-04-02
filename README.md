@@ -1,5 +1,7 @@
 # Finance Data Processing and Access Control Dashboard
 
+https://finanace-project-frontend.vercel.app/login
+
 ## Login Credentials (Important)
 
 Use these demo accounts to log in immediately after seeding:
