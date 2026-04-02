@@ -1,5 +1,20 @@
 # Finance Data Processing and Access Control Dashboard
 
+## Login Credentials (Important)
+
+Use these demo accounts to log in immediately after seeding:
+
+| Role | Email | Password |
+|---|---|---|
+| Admin | admin@financeapp.com | Admin@12345 |
+| Analyst | analyst@financeapp.com | Analyst@12345 |
+| Viewer | viewer@financeapp.com | Viewer@12345 |
+
+Note:
+
+- Use Admin Login mode for the Admin account.
+- Use User/Analyst Login mode for Analyst and Viewer accounts.
+
 Full-stack MERN-style monorepo for finance record management, role-based access control, and dashboard analytics.
 
 This project was built to demonstrate:
